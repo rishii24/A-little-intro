@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rishii24
+- 👀 I’m interested in Frontend web development with React.js.
+- 🌱 I’m currently a Computer Science student. 
+- 💞️ I’m looking for projects that suits my contributing capabilities.
+- 📫 To reach me just drop a mail on 24rishi02@gmail.com , I'll be happy to hear from your side.
